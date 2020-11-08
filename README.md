@@ -2,7 +2,7 @@
 
 1. Use [pi imager](https://www.raspberrypi.org/blog/raspberry-pi-imager-imaging-utility).
 
-<img width="600" src="https://www.raspberrypi.org/app/uploads/2020/03/RPI_intro-e1583228263677.png" alt="Raspberry Pi Imager.">
+<img width="400" src="https://www.raspberrypi.org/app/uploads/2020/03/RPI_intro-e1583228263677.png" alt="Raspberry Pi Imager.">
 
 2. Enable [remote access to raspberry](https://www.raspberrypi.org/documentation/remote-access/ssh).
 
@@ -12,5 +12,5 @@
 
 5. [Configure Raspbian](https://www.raspberrypi.org/documentation/configuration/raspi-config.md).
 
-<img width="600" src="https://www.techcoil.com/blog/wp-content/uploads/Selecting-Advanced-Options-of-raspi-config-on-terminal-in-Raspbian-Buster-20190710.gif" alt="Configure Raspbian.">
+<img width="400" src="https://www.techcoil.com/blog/wp-content/uploads/Selecting-Advanced-Options-of-raspi-config-on-terminal-in-Raspbian-Buster-20190710.gif" alt="Configure Raspbian.">
 
