@@ -12,4 +12,5 @@
 
 5. [Configure Raspbian](https://www.raspberrypi.org/documentation/configuration/raspi-config.md).
 
-<img width="600" src="https://www.raspberrypi.org/documentation/configuration/images/raspi-config.png" alt="Configure Raspbian.">
+<img width="600" src="https://www.techcoil.com/blog/wp-content/uploads/Selecting-Advanced-Options-of-raspi-config-on-terminal-in-Raspbian-Buster-20190710.gif" alt="Configure Raspbian.">
+
