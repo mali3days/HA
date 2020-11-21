@@ -31,3 +31,5 @@
 9. Restore system from snapshot.
 
 10. Fix Recorder issues.
+
+11. Repo for dscreen dricers: https://github.com/goodtft/LCD-show
