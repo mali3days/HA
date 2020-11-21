@@ -32,4 +32,4 @@
 
 10. Fix Recorder issues.
 
-11. Repo for dscreen dricers: https://github.com/goodtft/LCD-show
+11. Repo for screen drivers: https://github.com/goodtft/LCD-show
